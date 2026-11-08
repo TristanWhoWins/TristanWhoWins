@@ -20,6 +20,11 @@ Areas of Interest
 - Computer Vision — visual perception and image-based understanding for intelligent systems.
 - Embedded Systems — hardware–software integration, prototyping, and edge devices.
 - Technology & Entrepreneurship — translating technical capabilities into useful products and scalable ventures.
+- Robotics & Autonomous Systems — intelligent machines, system integration, and real-world automation.
+- Artificial Intelligence — machine learning, intelligent decision-support, and applied AI.
+- Computer Vision — visual perception and image-based understanding for intelligent systems.
+- Embedded Systems — hardware–software integration, prototyping, and edge devices.
+- Technology & Entrepreneurship — translating technical capabilities into useful products and scalable ventures.
 <div align="center"><h2>Technology Stack &amp; Ecosystem</h2><p><strong>Programming &amp; Robotics</strong></p><a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C" height="28" /></a>
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" height="28" /></a>
 <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&amp;logo=ros&amp;logoColor=white" alt="ROS" height="28" /></a>
