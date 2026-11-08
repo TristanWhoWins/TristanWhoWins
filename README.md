@@ -21,7 +21,7 @@ My interests span **robotics, artificial intelligence, data-driven decision-maki
 
 Beyond engineering, I bring strong **interpersonal communication, persuasion, and public-speaking skills**, alongside an entrepreneurial interest in sales and marketing. I enjoy connecting technical ideas with business objectives, coordinating resources, and helping move projects from concept to execution.
 
-My long-term ambition is to create meaningful impact through **technology and entrepreneurship**—"To make the world a better place for as many people as possible.
+My long-term ambition is to create meaningful impact through **technology and entrepreneurship**—To make the world a better place for as many people as possible.
 
 ## Areas of Focus
 
